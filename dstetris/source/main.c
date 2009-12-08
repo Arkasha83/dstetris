@@ -90,11 +90,11 @@ int main(void) {
 	
     P_InitNDS();
     
+    srand( clock() );
 	Gameplay_Load();
 	touchpadUsed = 0;
     int loops = 0;
-    srand(clock());
-	while(1) {
+	while( true ) {
 
 		iprintf("\x1b[0;0H  Score %03d \n", Gameplay_playerScore);
 		iprintf("\n  Next : ");
