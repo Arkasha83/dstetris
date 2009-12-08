@@ -22,7 +22,7 @@ void ReadTouchPad()
     scanKeys();
 
     // Update the touch screen values.
-	touch = touchReadXY();
+	touchRead(&touch);
 	
 	bool validY = touch.py > 87 && touch.py < 3240;
 	bool topY = validY && touch.py < 1600;
@@ -87,11 +87,8 @@ void FirePlayerInput()
 //---------------------------------------------------------------------------------
 int main(void) {
 //---------------------------------------------------------------------------------
-
-	//turn on the power to the system
-	powerON(POWER_ALL);
 	
-    P_InitNDS(INIT_NORMAL);
+    P_InitNDS();
     
 	Gameplay_Load();
 	touchpadUsed = 0;

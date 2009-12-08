@@ -1,0 +1,1603 @@
+Archive member included because of file (symbol)
+
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+                              main.o (bgState)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+                              main.o (consoleSetFont)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+                              main.o (scanKeys)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+                              main.o (touchRead)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o) (sinLerp)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+                              main.o (vramSetMainBanks)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (initSystem)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o) (fifoSetValue32Handler)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o) (irqSet)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (__libnds_exit)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (__libnds_mpu_setup)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o) (swiIntrWait)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (nocashMessage)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o) (IntrMain)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (default_font_bin)
+d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o) (powerValueHandler)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o)
+                              main.o (__aeabi_idiv)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_dvmd_tls.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o) (__div0)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o) (bsearch)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+                              main.o (clock)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (_impure_ptr)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (__libc_init_array)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+                              main.o (iprintf)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (memcpy)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o) (memset)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+                              main.o (srand)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (setvbuf)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (siscanf)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o) (strlen)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o) (__ssvfiscanf_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (__submore)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o) (_vfiprintf_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (_wcrtomb_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (_wcsrtombs_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o) (_wctomb_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (__swsetup_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (__ctype_ptr__)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o) (_fflush_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o) (_cleanup_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o) (_free_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (__sfvwrite_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o) (_fwalk_reent)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (iswspace)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o) (__jp2uc)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (__mb_cur_max)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o) (__smakebuf_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o) (malloc)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o) (_malloc_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (_mbrtowc_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (_mbtowc_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (memchr)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o) (memmove)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o) (__malloc_lock)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o) (_realloc_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (__sccl)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o) (__sclose)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o) (strcmp)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o) (strcpy)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (_strtol_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o) (_strtoul_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o) (fclose)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+                              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o) (devoptab_list)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o) (_close_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o) (_fstat_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o) (_isatty_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o) (_lseek_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o) (_read_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o) (_sbrk_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o) (_times_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o) (_write_r)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (fake_heap_end)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o (build_argv)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o) (__get_handle)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_udivsi3.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o) (__aeabi_uidiv)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o) (__aeabi_lmul)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o) (__errno)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o) (strchr)
+d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+                              d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o) (strncmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+currentCopy         0x5c              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+Grid_Cells          0xc0              main.o
+fifo_datamsg_data   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+Grid_Bottom         0x4               main.o
+Shape_NextType      0x4               main.o
+touch               0xc               main.o
+bgState             0x140             d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+fifo_buffer         0x800             d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+MapRows             0x4               main.o
+Grid_Left           0x4               main.o
+bgIsTextLut         0x8               d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+mapMemory           0x4               main.o
+Grid_TileH          0x4               main.o
+fifo_value32_func   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+fifo_address_func   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+P_Graphics_subW     0x4               main.o
+P_Graphics_mainW    0x4               main.o
+Gameplay_LastGravity
+                    0x4               main.o
+Gameplay_currentAction
+                    0x4               main.o
+Shape_Elems         0x10              main.o
+Grid_Right          0x4               main.o
+P_Graphics_subBuffer
+                    0x4               main.o
+fifo_value32_data   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+theTime             0x4               d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+Shape_State         0x4               main.o
+P_Graphics_mainBuffer
+                    0x4               main.o
+Grid_TileW          0x4               main.o
+fifo_value32_queue  0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+Grid_Top            0x4               main.o
+fifo_data_queue     0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+touchpadUsed        0x4               main.o
+Shape_Type          0x4               main.o
+P_Graphics_subH     0x4               main.o
+punixTime           0x4               d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+P_Graphics_mainH    0x4               main.o
+fifo_address_data   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+Gameplay_ticks      0x4               main.o
+Gameplay_playerScore
+                    0x4               main.o
+Gameplay_playerName
+                    0x4               main.o
+keys                0x4               main.o
+MapCols             0x4               main.o
+Shape_TempElems     0x10              main.o
+keysold             0x4               main.o
+Shape_Orient        0x4               main.o
+fifo_datamsg_func   0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+fifo_address_queue  0x40              d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x02000000
+ewram            0x02000000         0x003ff000
+dtcm             0x0b000000         0x00004000
+vectors          0x01000000         0x00000100
+itcm             0x01000100         0x00007f00
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x01000000                __vectors_start = 0x1000000
+                0x01000100                __itcm_start = 0x1000100
+                0x023ff000                __ewram_end = 0x23ff000
+                0x023ff000                __eheap_end = 0x23ff000
+                0x0b000000                __dtcm_start = 0xb000000
+                0x0b004000                __dtcm_top = 0xb004000
+                0x0b003ff8                __irq_flags = (__dtcm_top - 0x8)
+                0x0b003ffc                __irq_vector = (__dtcm_top - 0x4)
+                0x0b003f00                __sp_svc = (__dtcm_top - 0x100)
+                0x0b003e00                __sp_irq = (__sp_svc - 0x100)
+                0x0b003d00                __sp_usr = (__sp_irq - 0x100)
+
+.init           0x02000000      0x21c
+                0x02000000                __text_start = .
+ *(.init)
+ .init          0x02000000      0x210 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+                0x02000000                _start
+ .init          0x02000210        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+                0x02000210                _init
+ .init          0x02000214        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+                0x0200021c                . = ALIGN (0x4)
+
+.plt
+ *(.plt)
+
+.text           0x02000220     0x84e4
+ *(EXCLUDE_FILE(*.itcm*) .text)
+ .text          0x02000220        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+ .text          0x02000220        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+ .text          0x02000220       0x6c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+ .text          0x0200028c        0x0 bkggreen.img.bin.o
+ .text          0x0200028c        0x0 bkggreen.pal.bin.o
+ .text          0x0200028c        0x0 clunk.raw.bin.o
+ .text          0x0200028c        0x0 swish.raw.bin.o
+ .text          0x0200028c        0x0 font.o
+ .text          0x0200028c      0xeec main.o
+                0x0200028c                P_Graphics_assignBuffer
+                0x020002cc                FillRectangle
+                0x02000340                DrawHorizontalLine
+                0x02000388                DrawVerticalLine
+                0x020003d4                DrawRectangle
+                0x020004f8                DrawLine
+                0x020005ac                P_ConsoleInit
+                0x020005b0                SetMap16x16To
+                0x0200061c                P_Input_KeysHeld
+                0x02000628                P_Input_KeysDown
+                0x0200063c                P_Input_IsKeyPressed
+                0x02000668                Array_cloneInt
+                0x02000680                Array_getMin
+                0x020006a0                Array_getMax
+                0x020006c0                Array_IsInArray
+                0x020006e8                Grid_init
+                0x02000708                Grid_setBackGroundDimentions
+                0x0200075c                Grid_getColumn
+                0x02000778                Grid_getRow
+                0x02000794                Grid_IsCellValid
+                0x020007a0                Grid_IsCellFree
+                0x020007b8                Grid_checkForRunOff
+                0x02000834                Grid_tryToMoveCells
+                0x020008d0                Grid_ShiftRowBy
+                0x02000900                Grid_SetAllRowTo
+                0x02000928                Grid_CheckRowForSame
+                0x02000950                Grid_MakeGridCollapse
+                0x02000990                Grid_update
+                0x020009e4                Shape_tryToMove
+                0x02000a08                Shape_alignFromOrientation
+                0x02000a64                Shape_rotateShape
+                0x02000a8c                Shape_shiftCells
+                0x02000ae8                Shape_update
+                0x02000b34                Shape_IsFalling
+                0x02000b44                Gameplay_init
+                0x02000b78                Gameplay_restartGame
+                0x02000b8c                Gameplay_handleInput
+                0x02000bb0                Gameplay_displayNextShape
+                0x02000c18                Gameplay_draw
+                0x02000c28                Array_print
+                0x02000c4c                ReadTouchPad
+                0x02000d44                Shape_spawn
+                0x02000da0                Shape_addGravity
+                0x02000ddc                Gameplay_update
+                0x02000e50                Shape_init
+                0x02000e88                Gameplay_Load
+                0x02000ea0                P_Input_ScanKeys
+                0x02000ec0                FirePlayerInput
+                0x02000f30                P_Font_LoadFontIntoSubLCD
+                0x02000f7c                P_Map16x16_Init
+                0x02000ff4                P_InitNDS
+                0x02001128                main
+ .text          0x02001178      0x350 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+                0x02001178                bgIsText
+                0x02001184                checkIfText
+                0x020011d4                bgUpdate
+                0x020012e8                bgInitSub_call
+                0x020013f8                bgInit_call
+ .text          0x020014c8      0xa1c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+                0x020014c8                consoleGetDefault
+                0x020014d0                consoleSelect
+                0x0200156c                consolePrintChar
+                0x0200170c                consoleLoadFont
+                0x0200198c                consoleSetFont
+                0x020019ac                consoleSetWindow
+                0x020019d0                consoleClear
+                0x020019e0                consoleDebugInit
+                0x02001a2c                consoleInit
+                0x02001ba4                consoleDemoInit
+                0x02001be0                con_write
+                0x02001eb4                nocash_write
+ .text          0x02001ee4       0xfc d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+                0x02001ee4                scanKeys
+                0x02001f54                keysHeld
+                0x02001f60                keysDown
+                0x02001f70                keysDownRepeat
+                0x02001f80                keysSetRepeat
+                0x02001f98                keysUp
+                0x02001fa8                keysCurrent
+ .text          0x02001fe0       0x4c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+                0x02001fe0                touchRead
+                0x02002008                touchReadXY
+ .text          0x0200202c      0x234 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+                0x0200202c                sinLutLookup
+                0x02002068                sinLerp
+                0x020020f4                cosLerp
+                0x0200210c                tanLutLookup
+                0x02002158                tanLerp
+                0x02002194                arcSinComp
+                0x020021c4                asinLerp
+                0x02002248                acosLerp
+ .text          0x02002260      0x144 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+                0x02002260                vramSetMainBanks
+                0x020022a4                vramRestoreMainBanks
+                0x020022b0                vramSetBankA
+                0x020022c4                vramSetBankB
+                0x020022d8                vramSetBankC
+                0x020022ec                vramSetBankD
+                0x02002300                vramSetBankE
+                0x02002314                vramSetBankF
+                0x02002328                vramSetBankG
+                0x0200233c                vramSetBankH
+                0x02002350                vramSetBankI
+                0x02002364                setBrightness
+ .text          0x020023a4       0xf4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+                0x020023a4                initSystem
+ .text          0x02002498      0xcd0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                0x0200262c                fifoSendAddress
+                0x02002664                fifoSendValue32
+                0x020026ac                fifoGetAddress
+                0x0200271c                fifoSetAddressHandler
+                0x02002790                fifoGetValue32
+                0x02002800                fifoSetValue32Handler
+                0x02002874                fifoCheckAddress
+                0x02002898                fifoCheckDatamsg
+                0x020028bc                fifoCheckValue32
+                0x02002984                fifoInit
+                0x02002b44                fifoGetDatamsg
+                0x02003050                fifoSetDatamsgHandler
+                0x020030f8                fifoSendDatamsg
+ .text          0x02003168      0x1d8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+                0x02003168                irqDummy
+                0x0200316c                irqSet
+                0x020031d8                irqInit
+                0x02003224                irqInitHandler
+                0x02003254                irqEnable
+                0x020032b4                irqDisable
+                0x02003314                irqClear
+ .text          0x02003340        0x4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+                0x02003340                __libnds_exit
+ .text          0x02003344      0x1d4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+                0x02003344                __libnds_mpu_setup
+                0x020034a4                memCached
+                0x020034bc                memUncached
+ *fill*         0x02003518        0x8 ff
+ .text          0x02003520       0x70 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+                0x02003520                swiSoftReset
+                0x02003524                swiDelay
+                0x02003528                swiIntrWait
+                0x0200352c                swiWaitForVBlank
+                0x02003530                swiSleep
+                0x02003534                swiChangeSoundBias
+                0x02003538                swiDivide
+                0x0200353c                swiRemainder
+                0x02003542                swiDivMod
+                0x0200354e                swiCopy
+                0x02003552                swiFastCopy
+                0x02003556                swiSqrt
+                0x0200355a                swiCRC16
+                0x0200355e                swiIsDebugger
+                0x02003562                swiUnpackBits
+                0x02003566                swiDecompressLZSSWram
+                0x0200356a                swiDecompressLZSSVram
+                0x0200356e                swiDecompressHuffman
+                0x02003572                swiDecompressRLEWram
+                0x02003576                swiDecompressRLEVram
+                0x0200357a                swiWaitForIRQ
+                0x0200357e                swiDecodeDelta8
+                0x02003582                swiDecodeDelta16
+                0x02003586                swiSetHaltCR
+ .text          0x02003590       0x98 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+                0x02003590                nocashMessage
+ .text          0x02003628        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .text          0x02003628        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+ .text          0x02003628       0xdc d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+                0x02003628                ledBlink
+                0x0200363c                powerOff
+                0x02003668                powerOn
+                0x02003698                systemSleep
+                0x020036b0                powerValueHandler
+                0x020036c0                systemMsgHandler
+ .text          0x02003704       0xa4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o)
+                0x02003704                __divsi3
+                0x02003704                __aeabi_idiv
+                0x02003798                __aeabi_idivmod
+ .text          0x020037a8        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_dvmd_tls.o)
+                0x020037a8                __div0
+                0x020037a8                __aeabi_idiv0
+                0x020037a8                __aeabi_ldiv0
+ .text          0x020037ac       0x60 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+                0x020037ac                bsearch
+ .text          0x0200380c       0x2c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+                0x0200380c                clock
+ .text          0x02003838        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+ .text          0x02003838       0x84 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+                0x02003838                __libc_fini_array
+                0x02003868                __libc_init_array
+ .text          0x020038bc       0x40 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+                0x020038bc                _iprintf_r
+                0x020038d8                iprintf
+ .text          0x020038fc       0x80 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+                0x020038fc                memcpy
+ .text          0x0200397c       0x94 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+                0x0200397c                memset
+ .text          0x02003a10       0x50 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+                0x02003a10                srand
+                0x02003a24                rand
+ .text          0x02003a60      0x10c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+                0x02003a60                setvbuf
+ .text          0x02003b6c       0xa4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+                0x02003b70                _siscanf_r
+                0x02003bc0                siscanf
+ .text          0x02003c10       0x6c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+                0x02003c10                strlen
+ .text          0x02003c7c      0xa6c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+                0x02003d50                __ssvfiscanf_r
+ .text          0x020046e8      0x1a0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+                0x020046e8                __submore
+                0x02004764                _ungetc_r
+                0x0200486c                ungetc
+ .text          0x02004888      0xd48 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+                0x020048a8                _vfiprintf_r
+                0x020055b0                vfiprintf
+ .text          0x020055d0       0x64 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+                0x020055d0                _wcrtomb_r
+                0x02005614                wcrtomb
+ .text          0x02005634      0x104 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+                0x02005634                _wcsrtombs_r
+                0x02005710                wcsrtombs
+ .text          0x02005738      0x2c8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+                0x02005738                _wctomb_r
+ .text          0x02005a00       0xd0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+                0x02005a00                __swsetup_r
+ .text          0x02005ad0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+ .text          0x02005ad0      0x148 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+                0x02005ad0                _fflush_r
+                0x02005be4                fflush
+ .text          0x02005c18      0x1e0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+                0x02005c18                __sfp_lock_acquire
+                0x02005c1c                __sfp_lock_release
+                0x02005c20                __sinit_lock_acquire
+                0x02005c24                __sinit_lock_release
+                0x02005c30                __fp_unlock_all
+                0x02005c4c                __fp_lock_all
+                0x02005c68                _cleanup_r
+                0x02005c7c                _cleanup
+                0x02005cdc                __sinit
+                0x02005d38                __sfmoreglue
+                0x02005d68                __sfp
+ .text          0x02005df8      0x250 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+                0x02005df8                _malloc_trim_r
+                0x02005e9c                _free_r
+ .text          0x02006048      0x318 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+                0x02006048                __sfvwrite_r
+ .text          0x02006360       0xc4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+                0x02006360                _fwalk_reent
+                0x020063c4                _fwalk
+ .text          0x02006424       0xe8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+                0x02006424                iswspace
+ .text          0x0200650c      0x190 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+                0x0200650c                __jp2uc
+ .text          0x0200669c      0x28c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+                0x0200669c                __locale_charset
+                0x020066a8                _localeconv_r
+                0x020066b0                localeconv
+                0x020066b8                _setlocale_r
+                0x0200690c                setlocale
+ .text          0x02006928       0xe8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+                0x02006928                __smakebuf_r
+ .text          0x02006a10       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+                0x02006a10                free
+                0x02006a28                malloc
+ .text          0x02006a40      0x504 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+                0x02006a40                _malloc_r
+ .text          0x02006f44       0x70 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+                0x02006f44                _mbrtowc_r
+                0x02006f8c                mbrtowc
+ .text          0x02006fb4      0x660 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+                0x02006fb4                _mbtowc_r
+ .text          0x02007614       0x80 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+                0x02007614                memchr
+ .text          0x02007694       0xa0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+                0x02007694                memmove
+ .text          0x02007734        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+                0x02007734                __malloc_lock
+                0x02007738                __malloc_unlock
+ .text          0x0200773c      0x354 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+                0x0200773c                _realloc_r
+ .text          0x02007a90       0x78 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+                0x02007a90                __sccl
+ .text          0x02007b08       0xa8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+                0x02007b08                __sclose
+                0x02007b18                __sseek
+                0x02007b48                __swrite
+                0x02007b84                __sread
+ .text          0x02007bb0       0x5c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+                0x02007bb0                strcmp
+ .text          0x02007c0c       0x4c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+                0x02007c0c                strcpy
+ .text          0x02007c58      0x190 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+                0x02007c58                _strtol_r
+                0x02007dc8                strtol
+ .text          0x02007de8      0x17c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+                0x02007de8                _strtoul_r
+                0x02007f44                strtoul
+ .text          0x02007f64       0xc0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+                0x02007f64                _fclose_r
+                0x02008008                fclose
+ .text          0x02008024      0x144 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+                0x02008024                setDefaultDevice
+                0x02008038                AddDevice
+                0x020080b4                FindDevice
+                0x02008124                GetDeviceOpTab
+                0x02008144                RemoveDevice
+ .text          0x02008168       0x50 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+                0x02008168                _close_r
+ .text          0x020081b8       0x58 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+                0x020081b8                _fstat_r
+ .text          0x02008210        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+                0x02008210                _isatty_r
+ .text          0x02008214       0x50 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+                0x02008214                _lseek_r
+ .text          0x02008264       0x50 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+                0x02008264                _read_r
+ .text          0x020082b4       0x54 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+                0x020082b4                _sbrk_r
+ .text          0x02008308       0x48 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+                0x02008308                _times_r
+                0x02008310                _gettimeofday_r
+                0x0200833c                _times
+ .text          0x02008350       0x50 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+                0x02008350                _write_r
+ .text          0x020083a0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .text          0x020083a0       0x54 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+                0x020083a0                build_argv
+ .text          0x020083f4       0x88 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+                0x020083f4                __get_handle
+                0x02008414                __alloc_handle
+                0x02008450                __release_handle
+ .text          0x0200847c       0x8c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_udivsi3.o)
+                0x0200847c                __aeabi_uidiv
+                0x0200847c                __udivsi3
+                0x020084f8                __aeabi_uidivmod
+ .text          0x02008508       0x70 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+                0x02008508                __muldi3
+                0x02008508                __aeabi_lmul
+ .text          0x02008578        0xc d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+                0x02008578                __errno
+ .text          0x02008584       0xd4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+                0x02008584                strchr
+ .text          0x02008658       0xac d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+                0x02008658                strncmp
+ .text          0x02008704        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+ .text          0x02008704        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+ *(.text.*)
+ *(.stub)
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+                0x02008704                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00000000        0x0 load address 0x02008704
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000000        0x0 load address 0x02008704
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x02008704        0xc
+ *(.fini)
+ .fini          0x02008704        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+                0x02008704                _fini
+ .fini          0x02008708        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+                0x02008710                __text_end = .
+
+.rodata         0x02008710    0x1e6e8
+ *(.rodata)
+ .rodata        0x02008710    0x10004 bkggreen.img.bin.o
+                0x02008710                bkggreen_img_bin
+                0x02018710                bkggreen_img_bin_size
+                0x02018710                bkggreen_img_bin_end
+ .rodata        0x02018714      0x204 bkggreen.pal.bin.o
+                0x02018714                bkggreen_pal_bin
+                0x02018914                bkggreen_pal_bin_size
+                0x02018914                bkggreen_pal_bin_end
+ .rodata        0x02018918     0x13b4 clunk.raw.bin.o
+                0x02018918                clunk_raw_bin
+                0x02019cc6                clunk_raw_bin_end
+                0x02019cc8                clunk_raw_bin_size
+ .rodata        0x02019ccc     0x6574 swish.raw.bin.o
+                0x02019ccc                swish_raw_bin
+                0x0202023c                swish_raw_bin_size
+                0x0202023c                swish_raw_bin_end
+ .rodata        0x02020240      0xc20 font.o
+                0x02020240                fontTiles
+                0x02020e40                fontPal
+ .rodata        0x02020e60       0x48 main.o
+ .rodata        0x02020ea8      0x18c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .rodata        0x02021034     0x2004 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+                0x02021034                default_font_bin
+                0x02023034                default_font_bin_size
+                0x02023034                default_font_bin_end
+ .rodata        0x02023038        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+                0x02023038                _global_impure_ptr
+ .rodata        0x0202303c      0x340 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+ .rodata        0x0202337c      0x184 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+ .rodata        0x02023500      0x104 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+                0x02023500                _ctype_
+ .rodata        0x02023604     0x34f0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+ .rodata        0x02026af4       0xb8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+ .rodata        0x02026bac       0xa8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ .rodata        0x02026c54       0x5c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+                0x02026c54                dotab_stdnull
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ .rodata.str1.4
+                0x02026cb0       0x6b main.o
+                                 0x6c (size before relaxing)
+ *fill*         0x02026d1b        0x1 ff
+ .rodata.str1.4
+                0x02026d1c       0x44 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .rodata.str1.4
+                0x02026d60        0x2 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x02026d62        0x2 ff
+ .rodata.str1.4
+                0x02026d64       0x2f d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+                                 0x30 (size before relaxing)
+ *fill*         0x02026d93        0x1 ff
+ .rodata.str1.4
+                0x02026d94       0x1e d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+                                 0x20 (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+ *fill*         0x02026db2        0x2 ff
+ .rodata.str1.4
+                0x02026db4       0x3a d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+                                 0x64 (size before relaxing)
+ .rodata.str1.4
+                0x00000000        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+ .rodata.str1.4
+                0x00000000       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ *fill*         0x02026dee        0x2 ff
+ .rodata.str1.4
+                0x02026df0        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+ *(.gnu.linkonce.r*)
+                0x02026df8                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x02026df8                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x02026df8                __exidx_end = .
+                0x02026df8                . = ALIGN (0x4)
+                0x02026df8                PROVIDE (__preinit_array_start, .)
+
+.preinit_array
+ *(.preinit_array)
+                0x02026df8                PROVIDE (__preinit_array_end, .)
+                0x02026df8                PROVIDE (__init_array_start, .)
+
+.init_array     0x02026df8        0x4
+ *(.init_array)
+ .init_array    0x02026df8        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+                0x02026dfc                PROVIDE (__init_array_end, .)
+                0x02026dfc                PROVIDE (__fini_array_start, .)
+
+.fini_array     0x02026dfc        0x4
+ *(.fini_array)
+ .fini_array    0x02026dfc        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+                0x02026e00                PROVIDE (__fini_array_end, .)
+
+.ctors          0x02026e00        0x0
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x02026e00                . = ALIGN (0x4)
+
+.dtors          0x02026e00        0x0
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x02026e00                . = ALIGN (0x4)
+
+.eh_frame       0x02026e00        0x4
+ *(.eh_frame)
+ .eh_frame      0x02026e00        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+ .eh_frame      0x02026e00        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+                0x02026e04                . = ALIGN (0x4)
+
+.gcc_except_table
+                0x02026e04        0x0
+ *(.gcc_except_table)
+                0x02026e04                . = ALIGN (0x4)
+
+.jcr            0x02026e04        0x4
+ *(.jcr)
+ .jcr           0x02026e04        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+ .jcr           0x02026e04        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+
+.got
+ *(.got.plt)
+ *(.got)
+ *(.rel.got)
+
+.ewram          0x02026e08        0x0
+                0x02026e08                __ewram_start = ABSOLUTE (.)
+ *(.ewram)
+ *ewram.*(.text)
+                0x02026e08                . = ALIGN (0x4)
+
+.data           0x02026e08      0xe7c
+                0x02026e08                __data_start = ABSOLUTE (.)
+ *(.data)
+ .data          0x02026e08        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+ .data          0x02026e08        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+ .data          0x02026e08        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+                0x02026e08                __dso_handle
+ .data          0x02026e0c        0x0 bkggreen.img.bin.o
+ .data          0x02026e0c        0x0 bkggreen.pal.bin.o
+ .data          0x02026e0c        0x0 clunk.raw.bin.o
+ .data          0x02026e0c        0x0 swish.raw.bin.o
+ .data          0x02026e0c        0x0 font.o
+ .data          0x02026e0c      0x1d0 main.o
+                0x02026e0c                SHAPE_TABLE
+                0x02026f5c                emptyTile
+                0x02026f9c                fullTile
+ .data          0x02026fdc       0x60 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+                0x02026fdc                bgScrollTable
+                0x02026ffc                bgTransform
+                0x0202701c                bgControl
+ .data          0x0202703c       0x64 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+                0x0202703c                defaultConsole
+                0x02027098                currentConsole
+ .data          0x020270a0        0x3 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .data          0x020270a3        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ *fill*         0x020270a3        0x1 ff
+ .data          0x020270a4      0x308 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+                0x020270a4                SIN_LUT
+                0x020271a8                TAN_LUT
+ .data          0x020273ac        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .data          0x020273ac        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .data          0x020273ac       0x10 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                0x020273ac                fifo_freewords
+                0x020273b0                fifo_send_queue
+                0x020273b4                fifo_buffer_free
+                0x020273b8                fifo_receive_queue
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+ .data          0x020273bc        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+ .data          0x020273bc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o)
+ .data          0x020273bc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x020273bc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+ .data          0x020273bc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+ *fill*         0x020273bc        0x4 ff
+ .data          0x020273c0      0x430 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+                0x020273c0                _impure_ptr
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+ .data          0x020277f0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+ .data          0x020277f0        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+                0x020277f0                __ctype_ptr
+                0x020277f4                __ctype_ptr__
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+ .data          0x020277f8        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+ .data          0x020277f8       0x38 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+                0x02027808                __lc_ctype
+                0x0202782c                __mb_cur_max
+ .data          0x02027830        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+ .data          0x02027830        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+ .data          0x02027830      0x410 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+                0x02027830                __malloc_av_
+                0x02027c38                __malloc_sbrk_base
+                0x02027c3c                __malloc_trim_threshold
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+ .data          0x02027c40        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+ .data          0x02027c40       0x44 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+                0x02027c44                devoptab_list
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_udivsi3.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+ .data          0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x02027c84                . = ALIGN (0x4)
+                0x02027c84                __data_end = ABSOLUTE (.)
+                0x02027c84                __dtcm_lma = .
+                0x02027c84                __bss_vma = .
+
+.dtcm           0x0b000000        0x0 load address 0x02027c84
+ *(.dtcm)
+ *(.dtcm.*)
+                0x0b000000                . = ALIGN (0x4)
+                0x0b000000                __dtcm_end = ABSOLUTE (.)
+                0x02027c84                __itcm_lma = (__dtcm_lma + SIZEOF (.dtcm))
+
+.itcm           0x01000100      0x190 load address 0x02027c84
+ *(.itcm)
+ .itcm          0x01000100       0xc8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+                0x01000100                irqTable
+ .itcm          0x010001c8       0xc8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+                0x010001c8                IntrMain
+ *itcm.*(.text)
+                0x01000290                . = ALIGN (0x4)
+                0x01000290                __itcm_end = ABSOLUTE (.)
+                0x02027e14                __vectors_lma = (__itcm_lma + SIZEOF (.itcm))
+
+.vectors        0x01000000        0x0 load address 0x02027e14
+ *(.vectors)
+ *vectors.*(.text)
+                0x01000000                . = ALIGN (0x4)
+                0x01000000                __vectors_end = ABSOLUTE (.)
+
+.sbss           0x0b000000        0x0
+                0x0b000000                __sbss_start = ABSOLUTE (.)
+                0x0b000000                __sbss_start__ = ABSOLUTE (.)
+ *(.sbss)
+                0x0b000000                . = ALIGN (0x4)
+                0x0b000000                __sbss_end = ABSOLUTE (.)
+
+.bss            0x02027c84     0x1dbc
+                0x02027c84                __bss_start = ABSOLUTE (.)
+                0x02027c84                __bss_start__ = ABSOLUTE (.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(.bss*)
+ .bss           0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+ .bss           0x02027c84        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+ .bss           0x02027c84       0x1c d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+ .bss           0x02027ca0        0x0 bkggreen.img.bin.o
+ .bss           0x02027ca0        0x0 bkggreen.pal.bin.o
+ .bss           0x02027ca0        0x0 clunk.raw.bin.o
+ .bss           0x02027ca0        0x0 swish.raw.bin.o
+ .bss           0x02027ca0        0x0 font.o
+ .bss           0x02027ca0        0x2 main.o
+                0x02027ca0                Shape_isInited
+                0x02027ca1                Shape_isGameOver
+ .bss           0x02027ca2        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .bss           0x02027ca2        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .bss           0x02027ca2        0x6 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .bss           0x02027ca8        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .bss           0x02027ca8        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .bss           0x02027ca8        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .bss           0x02027ca8        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .bss           0x02027ca8        0x8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                0x02027cac                processing
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+ .bss           0x02027cb0        0x0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+ .bss           0x02027cb0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+ .bss           0x02027cb0        0xc d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+                0x02027cb0                __nlocale_changed
+                0x02027cb4                __mlocale_changed
+                0x02027cb8                _PathLocale
+ .bss           0x02027cbc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+ .bss           0x02027cbc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+ .bss           0x02027cbc       0x34 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+                0x02027cbc                __malloc_top_pad
+                0x02027cc0                __malloc_current_mallinfo
+                0x02027ce8                __malloc_max_sbrked_mem
+                0x02027cec                __malloc_max_total_mem
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+ .bss           0x02027cf0        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+ .bss           0x02027cf0        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+ .bss           0x02027cf4        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+ .bss           0x02027cf4        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+ .bss           0x02027cf4        0x8 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+                0x02027cf4                fake_heap_end
+                0x02027cf8                fake_heap_start
+ .bss           0x02027cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+ .bss           0x02027cfc     0x1000 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_udivsi3.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+ .bss           0x02028cfc        0x0 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+ *(COMMON)
+ COMMON         0x02028cfc      0x158 main.o
+                0x02028cfc                Grid_Cells
+                0x02028dbc                Grid_Bottom
+                0x02028dc0                Shape_NextType
+                0x02028dc4                touch
+                0x02028dd0                MapRows
+                0x02028dd4                Grid_Left
+                0x02028dd8                mapMemory
+                0x02028ddc                Grid_TileH
+                0x02028de0                P_Graphics_subW
+                0x02028de4                P_Graphics_mainW
+                0x02028de8                Gameplay_LastGravity
+                0x02028dec                Gameplay_currentAction
+                0x02028df0                Shape_Elems
+                0x02028e00                Grid_Right
+                0x02028e04                P_Graphics_subBuffer
+                0x02028e08                Shape_State
+                0x02028e0c                P_Graphics_mainBuffer
+                0x02028e10                Grid_TileW
+                0x02028e14                Grid_Top
+                0x02028e18                touchpadUsed
+                0x02028e1c                Shape_Type
+                0x02028e20                P_Graphics_subH
+                0x02028e24                P_Graphics_mainH
+                0x02028e28                Gameplay_ticks
+                0x02028e2c                Gameplay_playerScore
+                0x02028e30                Gameplay_playerName
+                0x02028e34                keys
+                0x02028e38                MapCols
+                0x02028e3c                Shape_TempElems
+                0x02028e4c                keysold
+                0x02028e50                Shape_Orient
+ COMMON         0x02028e54      0x148 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+                0x02028e54                bgState
+                0x02028f94                bgIsTextLut
+ COMMON         0x02028f9c       0x5c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+                0x02028f9c                currentCopy
+ COMMON         0x02028ff8        0x4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+                0x02028ff8                theTime
+ COMMON         0x02028ffc      0xa40 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                0x02028ffc                fifo_datamsg_data
+                0x0202903c                fifo_buffer
+                0x0202983c                fifo_value32_func
+                0x0202987c                fifo_address_func
+                0x020298bc                fifo_value32_data
+                0x020298fc                fifo_value32_queue
+                0x0202993c                fifo_data_queue
+                0x0202997c                fifo_address_data
+                0x020299bc                fifo_datamsg_func
+                0x020299fc                fifo_address_queue
+ COMMON         0x02029a3c        0x4 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+                0x02029a3c                punixTime
+                0x02029a40                . = ALIGN (0x4)
+                0x02029a40                __bss_end = ABSOLUTE (.)
+                0x02029a40                __bss_end__ = __bss_end
+                0x02029a40                _end = __bss_end__
+                0x02029a40                __end__ = __bss_end__
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.ARM.attributes
+                0x00000000       0x2d load address 0x02027c84
+ .ARM.attributes
+                0x00000000       0x21 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+ .ARM.attributes
+                0x00000021       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+ .ARM.attributes
+                0x00000041       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+ .ARM.attributes
+                0x00000071       0x14 bkggreen.img.bin.o
+ .ARM.attributes
+                0x00000085       0x14 bkggreen.pal.bin.o
+ .ARM.attributes
+                0x00000099       0x14 clunk.raw.bin.o
+ .ARM.attributes
+                0x000000ad       0x14 swish.raw.bin.o
+ .ARM.attributes
+                0x000000c1       0x20 font.o
+ .ARM.attributes
+                0x000000e1       0x27 main.o
+ .ARM.attributes
+                0x00000108       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .ARM.attributes
+                0x0000012f       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .ARM.attributes
+                0x00000156       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .ARM.attributes
+                0x0000017d       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .ARM.attributes
+                0x000001a4       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .ARM.attributes
+                0x000001cb       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .ARM.attributes
+                0x000001f2       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .ARM.attributes
+                0x00000219       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .ARM.attributes
+                0x00000240       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .ARM.attributes
+                0x00000267       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .ARM.attributes
+                0x0000028e       0x21 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .ARM.attributes
+                0x000002af       0x1b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .ARM.attributes
+                0x000002ca       0x1b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .ARM.attributes
+                0x000002e5       0x1b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .ARM.attributes
+                0x00000300       0x14 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(default_font.bin.o)
+ .ARM.attributes
+                0x00000314       0x27 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+ .ARM.attributes
+                0x0000033b       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000035b       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000037b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+ .ARM.attributes
+                0x000003ab       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+ .ARM.attributes
+                0x000003db       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000040b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000043b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+ .ARM.attributes
+                0x0000046b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000049b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004cb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x000004fb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+ .ARM.attributes
+                0x0000052b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+ .ARM.attributes
+                0x0000055b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000058b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+ .ARM.attributes
+                0x000005bb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+ .ARM.attributes
+                0x000005eb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+ .ARM.attributes
+                0x0000061b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x0000064b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+ .ARM.attributes
+                0x0000067b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x000006ab       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000006db       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000070b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000073b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000076b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000079b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000007cb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x000007fb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+ .ARM.attributes
+                0x0000082b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+ .ARM.attributes
+                0x0000085b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000088b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x000008bb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000008eb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000091b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+ .ARM.attributes
+                0x0000094b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x0000097b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000009ab       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000009db       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000a0b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000a3b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+ .ARM.attributes
+                0x00000a6b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000a9b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000acb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000afb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000b2b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x00000b5b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000b8b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+ .ARM.attributes
+                0x00000bbb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+ .ARM.attributes
+                0x00000beb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+ .ARM.attributes
+                0x00000c1b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+ .ARM.attributes
+                0x00000c4b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+ .ARM.attributes
+                0x00000c7b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+ .ARM.attributes
+                0x00000cab       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+ .ARM.attributes
+                0x00000cdb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+ .ARM.attributes
+                0x00000d0b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+ .ARM.attributes
+                0x00000d3b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x00000d6b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+ .ARM.attributes
+                0x00000d9b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+ .ARM.attributes
+                0x00000dcb       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000deb       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x00000e1b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000e4b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000e7b       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000eab       0x30 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+ .ARM.attributes
+                0x00000edb       0x20 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+
+.comment        0x00000000       0x22 load address 0x02027c84
+ *(.comment)
+ .comment       0x00000000       0x22 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+                                 0x23 (size before relaxing)
+ .comment       0x00000000       0x23 main.o
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .comment       0x00000000       0x23 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-bsearch.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-clock.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-impure.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-init.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iprintf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memset.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-rand.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-setvbuf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-siscanf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strlen.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-svfiscanf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ungetc.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-vfiprintf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcrtomb.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wcsrtombs.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wctomb_r.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-wsetup.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-ctype_.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fflush.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-findfp.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-freer.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fvwrite.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fwalk.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-iswspace.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-jp2uc.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-locale.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-makebuf.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-malloc.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbrtowc.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mbtowc_r.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memchr.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-memmove.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-mlock.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-reallocr.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-sccl.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-stdio.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcmp.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtol.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strtoul.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-fclose.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(iosupport.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(close.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(fstat.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(isatty.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(lseek.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(read.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(sbrk.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(times.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(write.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(malloc_vars.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(build_argv.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a(handle_manager.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a(_muldi3.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-errno.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strchr.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a(lib_a-strncmp.o)
+ .comment       0x00000000       0x23 d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x200 load address 0x02027c84
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_aranges
+                0x00000040       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_aranges
+                0x00000060       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_aranges
+                0x00000080       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_aranges
+                0x000000a0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_aranges
+                0x000000c0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_aranges
+                0x000000e0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_aranges
+                0x00000100       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_aranges
+                0x00000120       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_aranges
+                0x00000140       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_aranges
+                0x00000160       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .debug_aranges
+                0x00000180       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .debug_aranges
+                0x000001a0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .debug_aranges
+                0x000001c0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .debug_aranges
+                0x000001e0       0x20 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_pubnames
+                0x00000000      0xe49 load address 0x02027c84
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x6aa main.o
+ .debug_pubnames
+                0x000006aa       0xab d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_pubnames
+                0x00000755      0x12a d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_pubnames
+                0x0000087f       0x79 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_pubnames
+                0x000008f8       0x30 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_pubnames
+                0x00000928       0x99 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_pubnames
+                0x000009c1       0xeb d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_pubnames
+                0x00000aac       0x2d d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_pubnames
+                0x00000ad9      0x259 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_pubnames
+                0x00000d32       0x80 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_pubnames
+                0x00000db2       0x24 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_pubnames
+                0x00000dd6       0x73 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_info     0x00000000     0x7939 load address 0x02027c84
+ *(.debug_info)
+ .debug_info    0x00000000     0x2429 main.o
+ .debug_info    0x00002429      0x883 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_info    0x00002cac     0x1dd3 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_info    0x00004a7f      0x31b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_info    0x00004d9a      0x228 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_info    0x00004fc2      0x3b9 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_info    0x0000537b      0x5ad d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_info    0x00005928      0x416 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_info    0x00005d3e      0xf89 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_info    0x00006cc7      0x340 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_info    0x00007007       0x4f d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_info    0x00007056       0xc8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .debug_info    0x0000711e       0xc3 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .debug_info    0x000071e1       0xc4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .debug_info    0x000072a5       0xcd d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .debug_info    0x00007372      0x5c7 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_abbrev   0x00000000     0x1775 load address 0x02027c84
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x449 main.o
+ .debug_abbrev  0x00000449      0x25e d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_abbrev  0x000006a7      0x3fe d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_abbrev  0x00000aa5      0x160 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_abbrev  0x00000c05      0x107 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_abbrev  0x00000d0c      0x16d d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_abbrev  0x00000e79       0xfc d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_abbrev  0x00000f75      0x15f d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_abbrev  0x000010d4      0x322 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_abbrev  0x000013f6      0x170 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_abbrev  0x00001566       0x43 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_abbrev  0x000015a9       0x14 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .debug_abbrev  0x000015bd       0x14 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .debug_abbrev  0x000015d1       0x14 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .debug_abbrev  0x000015e5       0x14 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .debug_abbrev  0x000015f9      0x17c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_line     0x00000000     0x2969 load address 0x02027c84
+ *(.debug_line)
+ .debug_line    0x00000000      0x7a4 main.o
+ .debug_line    0x000007a4      0x28b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_line    0x00000a2f      0x6c7 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_line    0x000010f6      0x292 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_line    0x00001388      0x222 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_line    0x000015aa      0x1a0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_line    0x0000174a      0x1ce d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_line    0x00001918      0x2d8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_line    0x00001bf0      0x5db d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_line    0x000021cb      0x1b5 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_line    0x00002380       0x88 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_line    0x00002408       0xeb d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(mpu_setup.o)
+ .debug_line    0x000024f3       0xc3 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(biosCalls.o)
+ .debug_line    0x000025b6       0x96 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(debugprint.o)
+ .debug_line    0x0000264c       0xc1 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interruptDispatcher.o)
+ .debug_line    0x0000270d      0x25c d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_frame    0x00000000     0x1030 load address 0x02027c84
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x638 main.o
+ .debug_frame   0x00000638       0xcc d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_frame   0x00000704      0x1e4 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_frame   0x000008e8       0x98 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_frame   0x00000980       0x48 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_frame   0x000009c8       0xf0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_frame   0x00000ab8       0xec d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_frame   0x00000ba4       0x30 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_frame   0x00000bd4      0x2bc d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_frame   0x00000e90       0xc0 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_frame   0x00000f50       0x28 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_frame   0x00000f78       0xb8 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_str      0x00000000     0x3237 load address 0x02027c84
+ *(.debug_str)
+ .debug_str     0x00000000     0x16c2 main.o
+                               0x176a (size before relaxing)
+ .debug_str     0x000016c2      0x143 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+                                0x667 (size before relaxing)
+ .debug_str     0x00001805      0x830 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+                                0xfbd (size before relaxing)
+ .debug_str     0x00002035      0x122 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+                                0x289 (size before relaxing)
+ .debug_str     0x00002157       0x72 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+                                0x1a4 (size before relaxing)
+ .debug_str     0x000021c9       0xc1 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+                                0x197 (size before relaxing)
+ .debug_str     0x0000228a      0x56f d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+                                0xae5 (size before relaxing)
+ .debug_str     0x000027f9      0x14f d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+                                0x48a (size before relaxing)
+ .debug_str     0x00002948      0x537 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+                                0x728 (size before relaxing)
+ .debug_str     0x00002e7f      0x13d d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+                                0x325 (size before relaxing)
+ .debug_str     0x00002fbc       0x69 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+                                 0x75 (size before relaxing)
+ .debug_str     0x00003025      0x212 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+                                0x444 (size before relaxing)
+
+.debug_loc      0x00000000     0x39be load address 0x02027c84
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x1534 main.o
+ .debug_loc     0x00001534      0x29b d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_loc     0x000017cf      0xd40 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_loc     0x0000250f       0x51 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(keys.o)
+ .debug_loc     0x00002560       0x3e d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_loc     0x0000259e      0x449 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_loc     0x000029e7       0xb3 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(video.o)
+ .debug_loc     0x00002a9a       0x32 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(initSystem.o)
+ .debug_loc     0x00002acc      0xc17 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
+ .debug_loc     0x000036e3      0x145 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(interrupts.o)
+ .debug_loc     0x00003828       0x1f d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(libnds_exit.o)
+ .debug_loc     0x00003847      0x177 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(system.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0 load address 0x02027c84
+                0x00080000                _stack = .
+ *(.stack)
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb/ds_arm9_crt0.o
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crti.o
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtbegin.o
+LOAD bkggreen.img.bin.o
+LOAD bkggreen.pal.bin.o
+LOAD clunk.raw.bin.o
+LOAD swish.raw.bin.o
+LOAD font.o
+LOAD main.o
+LOAD d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a
+START GROUP
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb\libgcc.a
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libg.a
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libc.a
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/../../../../arm-eabi/lib/thumb\libsysbase.a
+END GROUP
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtend.o
+LOAD d:/projects/dstetris/dstetris/devkitpro/devkitarm/bin/../lib/gcc/arm-eabi/4.4.2/thumb/crtn.o
+OUTPUT(d:/Projects/dstetris/dstetris/dstetris.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x8a8 load address 0x02027c84
+ .debug_ranges  0x00000000      0x198 main.o
+ .debug_ranges  0x00000198       0x78 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(background.o)
+ .debug_ranges  0x00000210      0x238 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(console.o)
+ .debug_ranges  0x00000448       0x18 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(touch.o)
+ .debug_ranges  0x00000460       0x30 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(trig.o)
+ .debug_ranges  0x00000490      0x418 d:/Projects/dstetris/dstetris/devkitPro/libnds/lib\libnds9.a(fifosystem.o)
