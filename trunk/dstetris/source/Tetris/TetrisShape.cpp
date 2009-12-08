@@ -3,8 +3,6 @@
 #include <stdlib.h>
 #include "TetrisShape.h"
 #include <nds/arm9/sound.h>		// sound functions
-#include "swish_raw_bin.h"
-#include "clunk_raw_bin.h"
 
 bool Shape_isGameOver = false;
 bool Shape_isInited = false;
