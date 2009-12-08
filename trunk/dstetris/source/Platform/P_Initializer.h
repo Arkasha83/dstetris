@@ -3,6 +3,7 @@
 #include <nds.h>
 #include "P_Map16x16.h"
 #include "P_Font.h"
+#include "P_Audio.h"
 
 #include "bkggreen_img_bin.h"
 #include "bkggreen_pal_bin.h"
@@ -36,5 +37,7 @@ void P_InitNDS()
 	dmaCopy(bkggreen_img_bin, bgGetGfxPtr( bg2 ), 256*256);
 	dmaCopy(bkggreen_pal_bin, BG_PALETTE_SUB, 256*2); 
 	
+	Audio_Init();
+	//Audio_PlayMusic();
 }
 

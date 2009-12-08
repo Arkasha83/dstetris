@@ -122,6 +122,7 @@ void Shape_update(int currentAction)
                 {
                     if (Shape_rotateShape(ROT_LEFT))
                     ;
+					Audio_PlaySound( eSFX_SWISH );
                     //playGenericSound(swish_raw_bin, swish_raw_bin_size);
                     break;
                 }
@@ -129,12 +130,14 @@ void Shape_update(int currentAction)
                 {
                     if (Shape_rotateShape(ROT_RIGHT))
                     ;
+					Audio_PlaySound( eSFX_SWISH );
 					//playGenericSound(swish_raw_bin, swish_raw_bin_size);
                     break;
                 }
             case ACTION_MAKE_FALL:
                 {
                     Shape_State = STATE_FALLING;
+					Audio_PlaySound( eSFX_CLUNK );
                     //playGenericSound(clunk_raw_bin, clunk_raw_bin_size);
                     break;
                 }
