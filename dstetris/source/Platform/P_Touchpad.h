@@ -2,7 +2,7 @@
 
 #include <nds.h>
 
-touchPosition TouchPad_GetTouch()
+/*touchPosition TouchPad_GetTouch()
 {
 	return touchReadXY();
-}
+}*/

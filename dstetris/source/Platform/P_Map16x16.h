@@ -40,7 +40,7 @@ void P_Map16x16_Init( int cols, int rows )
 	mapMemory = (u16*)BG_MAP_RAM(0);
 	
 	//tell the DS where we are putting everything and set 256 color mode and that we are using a 32 by 32 tile map.
-	BG0_CR = BG_32x32 | BG_COLOR_256 | BG_MAP_BASE(0) | BG_TILE_BASE(1);
+	BGCTRL[0] = BG_32x32 | BG_COLOR_256 | BG_MAP_BASE(0) | BG_TILE_BASE(1);
  
 	//load our palette
 	BG_PALETTE[1] = RGB15(0,0,0);

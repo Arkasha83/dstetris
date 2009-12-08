@@ -129,13 +129,13 @@ void Shape_update(int currentAction)
                 {
                     if (Shape_rotateShape(ROT_RIGHT))
                     ;
-                    //playGenericSound(swish_raw_bin, swish_raw_bin_size);
+					//playGenericSound(swish_raw_bin, swish_raw_bin_size);
                     break;
                 }
             case ACTION_MAKE_FALL:
                 {
                     Shape_State = STATE_FALLING;
-                    playGenericSound(clunk_raw_bin, clunk_raw_bin_size);
+                    //playGenericSound(clunk_raw_bin, clunk_raw_bin_size);
                     break;
                 }
         }

@@ -9,8 +9,11 @@ uint32 keys;
  
  
 void P_Input_ScanKeys(void) {
+
+	scanKeys();
+
 	keysold = keys;
-	keys = KEYS_CUR;
+	keys = keysHeld();
 }
  
 uint32 P_Input_KeysHeld(void) {
