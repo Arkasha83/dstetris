@@ -15,14 +15,18 @@
 #include "Tetris/TetrisDefines.h"
 #include "Tetris/TetrisGameplay.h"
 
-touchPosition touch;
 int touchpadUsed;
 void ReadTouchPad()
 {
     scanKeys();
 
     // Update the touch screen values.
+	touchPosition touch;
 	touchRead(&touch);
+
+		iprintf("\x1b[6;5HTouch x = %04X, %04X\n", touch.rawx, touch.px);
+		iprintf("\x1b[7;5HTouch y = %04X, %04X\n", touch.rawy, touch.py);	
+
 	
 	bool validY = touch.py > 87 && touch.py < 3240;
 	bool topY = validY && touch.py < 1600;

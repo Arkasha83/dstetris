@@ -26,7 +26,7 @@ SOURCES		:=	source
 DATA		:=	data  
 INCLUDES	:=	include
 GRAPHICS	:=	gfx
-MUSIC       :=  maxmod_data
+AUDIO       :=  maxmod_data
 
 #---------------------------------------------------------------------------------
 # options for code generation
@@ -76,9 +76,11 @@ export DEPSDIR	:=	$(CURDIR)/$(BUILD)
 CFILES		:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.c)))
 CPPFILES	:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.cpp)))
 SFILES		:=	$(foreach dir,$(SOURCES),$(notdir $(wildcard $(dir)/*.s)))
-BINFILES	:=	$(foreach dir,$(DATA),$(notdir $(wildcard $(dir)/*.*))) soundbank.bin
 BMPFILES	:=	$(foreach dir,$(GRAPHICS),$(notdir $(wildcard $(dir)/*.bmp)))
-export AUDIOFILES	:=	$(foreach dir,$(notdir $(wildcard $(MUSIC)/*.*)),$(CURDIR)/$(MUSIC)/$(dir))
+BINFILES	:=	$(foreach dir,$(DATA),$(notdir $(wildcard $(dir)/*.*))) soundbank.bin
+
+# build audio file list, include full path
+export AUDIOFILES	:=	$(foreach dir,$(notdir $(wildcard $(AUDIO)/*.*)),$(CURDIR)/$(AUDIO)/$(dir))
 
 #---------------------------------------------------------------------------------
 # use CXX for linking C++ projects, CC for standard C
@@ -136,13 +138,6 @@ $(OUTPUT).elf	:	$(OFILES)
 #---------------------------------------------------------------------------------
 
 #---------------------------------------------------------------------------------
-# rule to build soundbank from music files
-#---------------------------------------------------------------------------------
-soundbank.bin : $(AUDIOFILES)
-#---------------------------------------------------------------------------------
-	@mmutil $^ -d -osoundbank.bin -hsoundbank.h
-
-#---------------------------------------------------------------------------------
 # This rule links in binary data with the .bin extension
 #---------------------------------------------------------------------------------
 %.bin.o	:	%.bin
@@ -150,6 +145,13 @@ soundbank.bin : $(AUDIOFILES)
 	@echo $(notdir $<)
 	@$(bin2o)
 
+#---------------------------------------------------------------------------------
+# rule to build soundbank from music files
+#---------------------------------------------------------------------------------
+soundbank.bin : $(AUDIOFILES)
+#---------------------------------------------------------------------------------
+	@mmutil $^ -osoundbank.bin -hsoundbank.h -d
+	
 #---------------------------------------------------------------------------------
 # This rule links in binary data with the .raw extension
 #---------------------------------------------------------------------------------
